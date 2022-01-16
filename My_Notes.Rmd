@@ -1,0 +1,20 @@
+API (Application Programming Interface):
+
+APIs for Beginners - How to use an API
+https://www.youtube.com/watch?v=GZvSYJDk-us
+
+
+Interfaces: 
+
+Buttons are an interface (e.g., play button)
+
+Application framework - 
+Media player API (e.g., Android vs. iOS)
+
+APIs provide abstractions all the way down to the 1s and 0s
+
+APIs are like a contract. Save the developer from having to develop everything to make an application work.
+
+When people say API, they typically mean a web-based API. 
+
+Video 4 Remote APIs
