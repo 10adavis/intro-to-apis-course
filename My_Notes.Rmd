@@ -4,14 +4,16 @@ APIs for Beginners - How to use an API
 https://www.youtube.com/watch?v=GZvSYJDk-us
 
 
+
+Defining interfaces:
+
 Interfaces: 
 
-Buttons are an interface (e.g., play button)
+For example, "Buttons" are an interface (e.g., play button on a media player)
 
-Application framework - 
-Media player API (e.g., Android vs. iOS)
+Application framework - Media player API (e.g., Android vs. iOS)
 
-APIs provide abstractions all the way down to the 1s and 0s
+"APIs provide abstractions all the way down to the 1s and 0s"
 
 APIs are like a contract. Save the developer from having to develop everything to make an application work.
 
